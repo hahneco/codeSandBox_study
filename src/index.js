@@ -8,3 +8,7 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 `;
+
+// 配列の展開
+const arr1 = [1, 2];
+console.log(arr1);
